@@ -16,6 +16,7 @@ Workflow
 Example:
 Creating a figure using Chatgpt,
 promth: "A scary ghost with teeth, flat white background, 1024x1024"
+
 <img width="400" height="400" alt="ghost scary teeths 2" src="https://github.com/user-attachments/assets/77860ab7-e034-4293-8d98-7b638d14a0d3" />
 
 Using [Hunyuan3D](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) to convert image to 3D model
