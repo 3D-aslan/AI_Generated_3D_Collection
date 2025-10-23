@@ -10,7 +10,7 @@ Images were generated with tools like **ComfyUI / Hunyuan / Stable Diffusion**, 
 1. Generate concept images with AI (ComfyUI + Hunyuan model)  
 2. Convert images into 3D models using **Sparc3D**  
 3. Clean up geometry and scale for printing  
-4. Slice and print using **Bambu Studio**
+4. Slice and print using **Bambu Studio**      
 
 ---
 
