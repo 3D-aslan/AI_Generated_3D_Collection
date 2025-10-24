@@ -32,7 +32,5 @@ Printing the model
 
 Below are examples of models created through this workflow:
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0e2bb77f-07f5-42b2-a5d8-c3bd5fa33a44" />
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/ef6092b8-9c78-4f09-b5c9-e0b5b7e8bfde" />
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/71aeb2ff-4095-4b34-ad48-59b3c2dc1562" />
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e20aa478-4f85-48da-98f9-6aac9247278a" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0e2bb77f-07f5-42b2-a5d8-c3bd5fa33a44" /><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/ef6092b8-9c78-4f09-b5c9-e0b5b7e8bfde" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/71aeb2ff-4095-4b34-ad48-59b3c2dc1562" /><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e20aa478-4f85-48da-98f9-6aac9247278a" />
