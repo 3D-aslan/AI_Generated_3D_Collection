@@ -1,7 +1,7 @@
 
 # AI to 3D Modeling & Printing
 
-Here you can create unlimited 3D collection models using 2 AI tools. 
+This is the workflow you can create unlimited 3D collection models using 2 AI tools. 
 
 ---
 
